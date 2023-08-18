@@ -26,7 +26,7 @@ ul li a{
     color: #fff;
     padding: 5px 20px;
     border: 1px solid transparent;
-    transition: .5 ease;
+    
 }
 ul li a:hover{
     background-color: #000;
@@ -43,8 +43,8 @@ ul li.active a{
 .title{
     position: absolute;
     top: 46%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+    left: 43%;
+    
 }
 .title h1{
     color: #fff;
@@ -53,14 +53,13 @@ ul li.active a{
 .button{
     position: absolute;
     top: 54%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+    left: 40%;
+    
 }
 .btn{
     border: 1px solid #fff;
     padding: 5px 20px;
     color: #fff;
-    transition: 0.5 ease;
     font-size: 18px;
     text-decoration: none;
 }
